@@ -1,0 +1,27 @@
+body{
+	padding:5px;
+	background:#fff;
+}
+div{
+	float: right;	
+	width:100px;
+		height:800px;
+		margin:0;
+		padding:0;
+		line-height:16px;
+		font-size:14px;
+		line-height:1.4em;
+		-webkit-writing-mode: vertical-rl;
+		-o-writing-mode: vertical-rl;
+		-moz-writing-mode: vertical-rl;
+		writing-mode:tb-rl;
+		letter-spacing:2px;
+	}
+	h2{
+		float:left;
+		margin:0;
+		padding:0;
+		font-size:28px;
+		line-height:32px;
+		margin-bottom:10px;
+	}
